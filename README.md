@@ -6,7 +6,7 @@ Asignatura: Visualización de Datos.
 
 
 Las tres técnicas utilizadas son:
-1) Word Cloud (nube de palabras).
+1) Word Cloud o nube de palabras.
 2) ain Cloud Plot.
 3) Bump Chart.
 - Cada visualización se ha desarrollado en RStudio con librerías específicas y datos simulados, buscando que el resultado sea comprensible y visualmente atractivo.
